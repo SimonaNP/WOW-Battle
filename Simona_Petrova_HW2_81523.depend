@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1527549015 source:c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\main.cpp
+	<iostream>
+	"Fighter.h"
+	"Warrior.h"
+	"Warlock.h"
+	"DeathKnight.h"
+	"Team.h"
+
+1527542812 source:c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\fighter.cpp
+	"Fighter.h"
+
+1527542812 c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\fighter.h
+	<cstring>
+	<iostream>
+
+1527541409 source:c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\warrior.cpp
+	"Warrior.h"
+
+1527423580 c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\warrior.h
+	"Fighter.h"
+
+1527573663 source:c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\warlock.cpp
+	"Warlock.h"
+
+1527423369 c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\warlock.h
+	"Fighter.h"
+
+1527573663 source:c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\deathknight.cpp
+	"DeathKnight.h"
+
+1527423534 c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\deathknight.h
+	"Warrior.h"
+	"Warlock.h"
+
+1527541156 source:c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\team.cpp
+	"Team.h"
+	<iostream>
+	<algorithm>
+
+1527548415 c:\users\mc tan4eto\desktop\fmi\oop\simona_petrova_hw2_81523\team.h
+	"Fighter.h"
+	<deque>
+
